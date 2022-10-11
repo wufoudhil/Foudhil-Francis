@@ -20,7 +20,7 @@ body {
 
 header {
   color: black;
-  margin: 10px;
+  margin: 20px;
   text-align: center;
   font-size: 1.8em;
   font-weight: thin;
@@ -32,7 +32,7 @@ header {
 }
 
 #navbar ul {
-  height: 88%;
+  height: 89%;
   padding: 0;
   overflow-y: auto;
   overflow-x: hidden;
@@ -63,7 +63,7 @@ header {
 
 section article {
   color: #4d4e53;
-  margin: 15px;
+  margin: 20px;
   font-size: 0.96em;
 }
 
